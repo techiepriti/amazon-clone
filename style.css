@@ -92,6 +92,19 @@
     color: #0F1111;
 }
 
+/** Box added **/
+.country {
+ display: flex;
+ margin-bottom: 0px;
+}
+
+.nav_country {
+    
+        font-size: 1rem;
+        font-weight: 700;
+        margin-left: 4px;
+    
+}
 /** Box 4 & 5 **/
 
 span{
